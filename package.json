@@ -1,0 +1,17 @@
+{
+    "name": "learn-tf",
+    "description": "Learn TensorFlow",
+    "author": "Jonathon Langel",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@tensorflow/tfjs": "1.2.7",
+        "@tensorflow/tfjs-vis": "^1.1.0"
+    },
+    "devDependencies": {},
+    "engines": {
+        "node": ">=10.15.3",
+        "npm": ">=6.9.0"
+    },
+    "scripts": {}
+}
